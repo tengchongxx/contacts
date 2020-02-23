@@ -6,6 +6,7 @@ public class Test {
     private  String lastName;
     private  String phoneNumber;
     private  String emailAddress;
+    private String hahhaha;
 
     public String getFirstname() {
         return firstName;
